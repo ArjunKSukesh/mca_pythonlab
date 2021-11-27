@@ -34,6 +34,6 @@ else:
 for i in list1:
  for j in list2:
    if i==j:
-     print("Element is found in both",list1)
+     print("Element is found in both",i)
 
 
